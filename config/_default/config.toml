@@ -18,7 +18,7 @@ summaryLength = 100
 [author]
   name = "lafx0"
   image = "img/author.jpg"
-  bio = "A personal blog about security"
+  bio = "Just a personal blog about hacking & security"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -28,7 +28,7 @@ summaryLength = 100
   #   { dribbble = "https://dribbble.com/username" },
   #   { facebook = "https://facebook.com/username" },
   #   { foursquare = "https://foursquare.com/username" },
-  { github = "https://github.com/username" },
+  { github = "https://github.com/lafx0" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
@@ -44,6 +44,6 @@ summaryLength = 100
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { twitch = "https://twitch.tv/username" },
-     { twitter = "https://twitter.com/username" }
+     { twitter = "https://twitter.com/_lafx0" }
   #   { youtube = "https://youtube.com/username" },
    ]

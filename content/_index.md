@@ -1,3 +1,4 @@
 
 
-A personal blog about security
+
+Just a personal blog about hacking & security
