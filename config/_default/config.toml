@@ -13,7 +13,7 @@ title = "lafx0.me"
 enableEmoji = true
 enableRobotsTXT = true
 
-summaryLength = 100
+summaryLength = 25
 
 [author]
   name = "lafx0"
