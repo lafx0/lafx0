@@ -6,6 +6,7 @@ baseURL = "https://lafx0.me/"
 languageCode = "en"
 defaultContentLanguage = "en"
 theme = "congo"
+googleAnalytics = "G-X3DBW9T33K"
 
 title = "lafx0.me"
 #copyright = "Copy, _right?_ :thinking_face:"
