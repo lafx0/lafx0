@@ -7,19 +7,27 @@ languageCode = "en"
 defaultContentLanguage = "en"
 theme = "congo"
 googleAnalytics = "G-X3DBW9T33K"
+paginate = 10
 
-title = "lafx0.me"
+#outputs.home = ["HTML", "RSS", "JSON"]
+
+title = "lafx0's space"
+description = "Blog about CTF, hacking, security."
 #copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 enableRobotsTXT = true
 
-summaryLength = 25
+summaryLength = 0
+
+#[outputs]
+#  home = ["HTML", "RSS", "JSON"]
 
 [author]
   name = "lafx0"
   image = "img/author.jpg"
-  bio = "Just a personal blog about hacking & security"
+  bio = "Looking for knowledge"
+  headline = "Looking for knowledge"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },

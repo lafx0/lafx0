@@ -1,4 +1,4 @@
 
 
 
-Just a personal blog about hacking & security
+Just a personal blog about hacking, CTF & security

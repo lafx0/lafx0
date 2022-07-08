@@ -9,6 +9,13 @@
   GO_VERSION = "1.16"
   TZ = "UTC"  # Set to preferred timezone
 
+#[context.production.environment]
+#  HUGO_VERSION = "0.87.0"
+#  HUGO_ENV = "production"
+
 [context.production.environment]
-  HUGO_VERSION = "0.87.0"
+  HUGO_VERSION = "0.100.2"
   HUGO_ENV = "production"
+  
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.100.2"

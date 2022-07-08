@@ -7,33 +7,39 @@
 
 colorScheme = "congo"
 # darkMode = "auto"
+#defaultAppearance = "dark"
+enableSearch = true
 darkToggle = true
-#logo = "img/logo.jpg"
+#logo = "img/test.png"
 description = "Just a personal blog about hacking & security"
-#mainSections = ["section1", "section2"]
-# robots = ""
+mainSections = ["HTB"]
+showScrollToTop = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
 
 [article]
   showDate = false
+  showDateUpdated = false
   dateFormat = "2 January 2006"
   showAuthor = false
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   showHeadingAnchors = true
-  showPagination = false
+  showPagination = true
   showReadingTime = true
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+  showTableOfContents = true
+  showTaxonomies = true
+  sharingLinks = ["twitter", "reddit", "linkedin"]
 
 [list]
   showBreadcrumbs = false
   showSummary = false
+  showTableOfContents = false
   groupByYear = true
 
 [taxonomy]
