@@ -2,7 +2,9 @@
 title: HTB - OpenSource
 date: 2022-07-06
 description: OpenSource Hack The Box Writeup/Walkthrough
-tags: ["hackt the box", "htb", "ctf", "security", "hacking"]
+tags: ["hack the box", "ctf", "writeup"]
+categories: ["Hack the Box"]
+summary: Opensource is an easy Linux machine from HTB. The initial enumeration is mostly done via Git and available web application source code. User foothold is gained via a LFI vulnerability, while privilege escalation consists of abusing Git's pre-commit hook.
 ---
 
 Opensource is an easy Linux machine from HTB. The initial enumeration is mostly done via Git and available web application source code. User foothold is gained via a LFI vulnerability, while privilege escalation consists of abusing Git's pre-commit hook.

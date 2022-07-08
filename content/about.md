@@ -1,4 +1,4 @@
-# /whoami
+# # whoami
 
 Hello there!
 

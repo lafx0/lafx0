@@ -6,34 +6,47 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "congo"
-# darkMode = "auto"
-#defaultAppearance = "dark"
+
+defaultAppearance = "dark"
+
+autoSwitchAppearance = false
+
 enableSearch = true
+
+enableCodeCopy = true
+
 darkToggle = true
-#logo = "img/test.png"
-description = "Just a personal blog about hacking & security"
+#logo = "/img/author.jpg"
+
 mainSections = ["HTB"]
-showScrollToTop = true
+
+[header]
+  layout = "basic"
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
   showRecent = true
 
+[footer]
+  showScrollToTop = true
+  showAppearanceSwitcher = true
+
 [article]
   showDate = false
   showDateUpdated = false
-  dateFormat = "2 January 2006"
   showAuthor = false
+  dateFormat = "2 January 2006"
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
+  editAppendPath = false
   showHeadingAnchors = true
   showPagination = true
   showReadingTime = true
   showTableOfContents = true
   showTaxonomies = true
+  showWordCount = true
+  showComments = false
   sharingLinks = ["twitter", "reddit", "linkedin"]
 
 [list]
@@ -42,18 +55,12 @@ showScrollToTop = true
   showTableOfContents = false
   groupByYear = true
 
-[taxonomy]
-  showTermCount = true
-
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
 
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
+[taxonomy]
+  showTermCount = true
 
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
+
+
+

@@ -2,20 +2,13 @@
 title: CRTP - Attacking and Defending Active Directory ( just another review )
 date: 2021-03-08
 description: CRTP certification review
-tags: ["crtp", "active directory", "review", "security", "hacking"]
+tags: ["crtp", "active directory", "pentester academy", "certification", "review"]
+categories: ["Active Directory", "Red Team"]
+summary: Pentester Academy CRTP - course and exam review.
 ---
 
 I recently completed the "[Attacking and Defending Active Directory](https://www.pentesteracademy.com/activedirectorylab)" course from Pentester Academy, and successfully obtained the CRTP certification. This will be my personal review of the course, including some tips that could be helpful to those in the middle of the training.
 
----
-
-### Table of contents
-
-- [Intro](#intro)
-- [Course materials](#course)
-- [Labs](#labs)
-- [Exam](#exam)
-- [Preparation tips](#tips)
 
 ---
 

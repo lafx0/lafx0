@@ -2,7 +2,9 @@
 title: Sektor7 Red Team Operator - Malware Development Essentials Course review
 date: 2022-02-10
 description: Sektor7 Red Team Operator - Malware Development Essentials Course review
-tags: ["sektor7", "red teaming", "review", "security", "hacking", "malware development"]
+tags: ["sektor7", "malware development", "review", "red teaming"]
+categories: ["Red Team", "Malware Development"]
+summary: My review of the Sektor7's MDE  course.
 ---
 
 ![Sektor7_MDE](/img/sektor7_mde.png)
@@ -12,15 +14,6 @@ As penetration testers / ethical hackers we are constantly relying on open sourc
 When I started my offensive path a few years ago I remember the amazement I felt when using tools like Empire or Metasploit for the first time. I've always been fascinated by the idea of developing offensive tools instead of just using them blindly and when I first discovered Sektor7's training, it didn't take me long to sign up for the Malware Development Essentials course. 
 
 If you are curiuos too about how these offensive tools are working under the hood, this course is probably for you! 
-
----
-
-### Table of contents
-
-- [Course Content](#course-content)
-- [What I learned from the course](#what-i-learned)
-- [My thoughts on the course](#my-thoughts)
-- [Conclusion](#conclusion)
 
 ---
 
