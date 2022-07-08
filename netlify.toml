@@ -14,8 +14,8 @@
 #  HUGO_ENV = "production"
 
 [context.production.environment]
-  HUGO_VERSION = "0.100.2"
+  HUGO_VERSION = "0.101.0"
   HUGO_ENV = "production"
   
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.100.2"
+  HUGO_VERSION = "0.101.0"
