@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Home"
-# logo = "img/author.jpg"
+# logo = "img/profile.png"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "lafx0"
-  image = "img/author.jpg"
+  image = "img/profile.png"
   headline = "Looking for knowledge"
   bio = "Looking for knowledge"
   links = [
