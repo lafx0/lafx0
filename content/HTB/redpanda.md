@@ -5,7 +5,7 @@ draft: true
 description: RedPanda Hack The Box Writeup/Walkthrough
 tags: ["HTB", "ctf", "writeup", "SSTI", "Java"]
 categories: ["Hack the Box"]
-summary: Opensource is an easy Linux machine from HTB. The initial enumeration is mostly done via Git and available web application source code. User foothold is gained via a LFI vulnerability, while privilege escalation consists of abusing Git's pre-commit hook.
+summary: RedPanda is an easy rated Linux machine that has an interesting path to user involving a Server Side Template Injection (SSTI) vulnerability.
 ---
 
 RedPanda is an easy rated Linux machine that has an interesting path to user involving a Server Side Template Injection (SSTI) vulnerability.
